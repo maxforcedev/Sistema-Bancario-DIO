@@ -12,7 +12,7 @@ SEJA BEM VINDO AO BANCO PY
 [ 4 ] - SAIR
 
 DIGITO ==>  """
-
+ 
 # VARIAVEIS:
 
 saldo = 0 

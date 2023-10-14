@@ -116,7 +116,7 @@ def criar_usuario(usuarios):
 
     usuarios.append({'nome': nome, 'cpf': cpf, 'endereço': endereco})
     print('Usuario criado com sucesso!')
-    limpar()
+    limpar() 
 
 def main():
 
